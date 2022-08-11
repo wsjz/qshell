@@ -1,2 +1,2 @@
 # shell script 
-save some bash for me
+some bash script for me
